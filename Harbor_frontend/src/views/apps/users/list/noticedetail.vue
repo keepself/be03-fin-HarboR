@@ -8,6 +8,17 @@
   const baseUrl = `${import.meta.env.VITE_API_URL}`;
   const router = useRouter();
 
+  const editItem = () => {
+    router.push({
+      path: '/noticeUpdate',
+      params: {
+        noticeTitle: selectedDetail.title,  
+        noticeContent: selectedDetail.contents 
+      }
+    });
+  }
+
+
 
   const deleteItem = async () => {
     try {
@@ -21,8 +32,7 @@
       console.error(error); 
     }
   }
-  const editItem = async () =>{
-  }
+
     
   const props = defineProps({
     selectedDetail: Object || Array

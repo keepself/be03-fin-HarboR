@@ -477,7 +477,7 @@ const MainRoutes = {
       path: '/dashboard/analytics/attendancedetail',
       component: () => import('@/views/apps/users/list/attendancedetail.vue')
     },
-    },
+
     {
       name: 'noticeCreate',
       path: '/noticecreate',
@@ -487,6 +487,11 @@ const MainRoutes = {
       name: 'severancePay',
       path: '/severancePay',
       component: () => import('@/views/apps/users/list/severancePay.vue')
+    },
+    {
+      name: 'noticeUpdate',
+      path: '/noticeUpdate',
+      component: () => import('@/views/apps/users/list/noticeUpdate.vue')
     }
   ]
 };
