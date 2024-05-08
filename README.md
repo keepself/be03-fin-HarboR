@@ -279,7 +279,49 @@ Route53은 사용자의 DNS 요청을 CloudFront로 라우팅하여 사용자에
 )
 
 </details>
+
+<details>
+<summary>근태 관리</summary>
+
+[frontend mp4](https://github.com/keepself/be03-fin-HarboR/assets/150704738/4f04ee92-7674-48af-902f-143ddf740b91
+)
+
+<br></br>
+
+[frontend mp4](https://github.com/keepself/be03-fin-HarboR/assets/150704738/3f2abaa2-59c7-45cb-b74d-fad4dd916625
+)
+
+<br></br>
+
+[frontend mp4](https://github.com/keepself/be03-fin-HarboR/assets/150704738/93b0834f-d2f2-4998-bf6d-e3b590c89d24
+)
+
+</details>
+
+<details>
+<summary>공지 사항</summary>
+
+
+[frontend mp4](https://github.com/keepself/be03-fin-HarboR/assets/150704738/e25bd463-580a-4a02-8a2c-0c6ac54e6e6d
+)
+
+<br></br>
+
+[frontend mp4](https://github.com/keepself/be03-fin-HarboR/assets/150704738/06d08c2e-9472-4033-8968-2ade03b16f0b
+)
+</detail>
+
+
+
+
+
 .
+
+
+
+
+
+
 
 
 
